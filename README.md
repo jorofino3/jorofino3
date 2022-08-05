@@ -10,7 +10,7 @@
 <p align="center"><img src="https://25.media.tumblr.com/afaca45b2b31a46bd73a34b3665593ec/tumblr_mmaqeyKhPw1qi0f9no1_500.gif" width=500 hieght=229/></p>
 
 
-This is the place where I try to code things that never work :rofl:
+This is the place where I try to code things that never work
 
 - 👨‍💻 &nbsp;Computer Science major with intrest in Artificial Intelligence and Web Development
 - 👨‍🏫 &nbsp;I'm a teaching assistant for [Data Structures and Algorithms](https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf) 
