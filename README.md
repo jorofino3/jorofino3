@@ -2,7 +2,10 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/joeyorofino/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/joeyorofino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
+  
+  <a 
+  
 </p>
 <p align="center" >
 <b>CS Student @ Georgia Institute of Technology<b/>
@@ -15,7 +18,7 @@ This is the place where I try to code things that never work
 - 👨‍💻 &nbsp;Computer Science major with intrest in Artificial Intelligence and Web Development
 - 👨‍🏫 &nbsp;I'm a teaching assistant for [Data Structures and Algorithms](https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf) 
 - 🌱 &nbsp;I'm currently learning React
-- ⚡ &nbsp;Fun fact: I have a cat names Mochi! 🐱
+- ⚡ &nbsp;Fun fact: I have a cat named Mochi! 🐱
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
