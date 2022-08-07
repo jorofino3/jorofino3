@@ -24,6 +24,11 @@ This is the place where I try to code things that never work
 - 🌱 &nbsp;I'm currently learning React
 - ⚡ &nbsp;Fun fact: I have a cat named Mochi! 🐱
 
+
+📊 &nbsp;**This week I spent my time on**
+
+<figure><embed src="https://wakatime.com/share/@16d6c9c0-9c8f-4009-bcb4-c84b24d7bd3c/df0971d9-f784-406b-a96a-51f82f142ee0.svg"></embed></figure>
+
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
