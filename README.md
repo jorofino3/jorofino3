@@ -28,9 +28,12 @@ This is the place where I try to code things that never work
 📊 &nbsp;**This week I spent my time on**
 
 <figure><img src="https://wakatime.com/share/@16d6c9c0-9c8f-4009-bcb4-c84b24d7bd3c/daf090c3-760d-4d63-ad43-cbb35361dfe8.svg" width=450 hieght=375></img></figure>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+ 
+ <details>
+
+ <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
-  
+ 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
