@@ -26,9 +26,10 @@ This is the place where I try to code things that never work
 
 
 📊 &nbsp;**This week I spent my time on**
-
-<figure><img src="https://wakatime.com/share/@16d6c9c0-9c8f-4009-bcb4-c84b24d7bd3c/daf090c3-760d-4d63-ad43-cbb35361dfe8.svg" width=450 hieght=375 alt="Weekly Tracker"></img></figure>
- 
+<div>
+  <figure><img src="https://wakatime.com/share/@16d6c9c0-9c8f-4009-bcb4-c84b24d7bd3c/daf090c3-760d-4d63-ad43-cbb35361dfe8.svg" width=450 hieght=375 alt="Weekly     Tracker"></img></figure>
+  <figure><img src="https://wakatime.com/share/@16d6c9c0-9c8f-4009-bcb4-c84b24d7bd3c/191f28c4-e6a6-439f-a2d4-7e5eb6d82bc3.png" /><figure>
+ </div>
  <details>
 
  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
