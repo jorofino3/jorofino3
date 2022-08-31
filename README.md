@@ -2,14 +2,16 @@
 
 
 <div align="center">
+<a href="https://jorofino-e97f1.web.app/)"><img src="Screenshot 2022-08-30 223034.png" alt="Outlook Badge" width="90" height="45">
+  </a> </br>
 <a href="https://www.linkedin.com/in/joeyorofino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
   
-<a href="mailto:jorofino3@gatech.edu"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge">
+<a href="mailto:jorofino3@gatech.edu">
+  <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge">
+<a/>
     
   
-  </a>
  
-[Personal Portfoilio](https://jorofino-e97f1.web.app/) 
   
 </div>
 
