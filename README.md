@@ -8,9 +8,11 @@
     
   
   </a>
-  
+ 
+[Personal Portfoilio](https://jorofino-e97f1.web.app/) 
   
 </div>
+
 <p align="center" >
 <b>CS Student @ Georgia Institute of Technology<b/>
 </p>
