@@ -23,9 +23,10 @@
 
 This is the place where I try to code things that never work
 
-- 👨‍💻 &nbsp;Computer Science major with intrest in Artificial Intelligence and Web Development
+- 💻 &nbsp;Computer Science major with intrest in Artificial Intelligence and Web Development
 - 👨‍🏫 &nbsp;I'm a teaching assistant for [Data Structures and Algorithms](https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf) 
-- 🌱 &nbsp;I'm currently learning React, UI Design, and Human Computer Interactions (HCI) 
+- 👨‍💻 &nbsp;I'm a Technical Lead at [Google DSC](https://www.google.com/search?q=google+developer+student+club&rlz=1C1CHBF_enUS917US917&oq=google+developer&aqs=chrome.0.69i59l3j69i57j69i59j69i65j69i60l2.2443j0j7&sourceid=chrome&ie=UTF-8) 
+- 🌱 &nbsp;I'm currently learning React, UI Design, and Human Computer Interactions 
 - ⚡ &nbsp;Fun fact: I have a cat named Mochi! 🐱
 
 
