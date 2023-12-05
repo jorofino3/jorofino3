@@ -26,7 +26,7 @@ This is the place where I try to code things that never work
 - 💻 &nbsp;Computer Science major with intrest in Cloud computing and HCI
 - 👨‍🏫 &nbsp;I'm a Head TA for [Data Structures and Algorithms](https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf) 
 - 👨‍💻 &nbsp;I'm the President at at [Google DSC](https://www.google.com/search?q=google+developer+student+club&rlz=1C1CHBF_enUS917US917&oq=google+developer&aqs=chrome.0.69i59l3j69i57j69i59j69i65j69i60l2.2443j0j7&sourceid=chrome&ie=UTF-8) 
-- 🌱 &nbsp;I'm currently interning at NCR and Develop for Good! 
+- 🌱 &nbsp;I'm currently grinding out school! 
 - ⚡ &nbsp;Fun fact: I have a cat named Mochi! 🐱
 
 
