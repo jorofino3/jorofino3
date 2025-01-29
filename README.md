@@ -16,16 +16,15 @@
 </div>
 
 <p align="center" >
-<b>CS Student @ Georgia Institute of Technology<b/>
+<b>SWE @ NCR Voyix | CS Alum @ Georgia Tech <b/>
 </p>
 <p align="center"><img src="https://25.media.tumblr.com/afaca45b2b31a46bd73a34b3665593ec/tumblr_mmaqeyKhPw1qi0f9no1_500.gif" width=500 hieght=229/></p>
 
 
 This is the place where I try to code things that never work
 
-- 💻 &nbsp;Computer Science major with intrest in Cloud computing and graphics
-- 👨‍🏫 &nbsp;I'm a Head TA for [Data Structures and Algorithms](https://ctl.gatech.edu/sites/default/files/images/hudachek-buswell_cs1332_syllabus.pdf) 
-- 👨‍💻 &nbsp;I'm the President at at [Google DSC](https://www.google.com/search?q=google+developer+student+club&rlz=1C1CHBF_enUS917US917&oq=google+developer&aqs=chrome.0.69i59l3j69i57j69i59j69i65j69i60l2.2443j0j7&sourceid=chrome&ie=UTF-8) 
+- 👨‍💻 &nbsp; Just getting started as a Software Engineer at NCR Voyix on their ordering platform team
+- 🎓 &nbsp; I've recently graduated from Georgia Tech with a Bachelor's in Computer Science
 - ⚡ &nbsp;Fun fact: I have a cat named Mochi! 🐱
 
 
